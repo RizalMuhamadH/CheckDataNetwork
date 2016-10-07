@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39e74406e5d981c2de78733a7561e2bc28bc5090">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4adfcada441de2556d1e2163b020c0f2a438dad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_1918741c77d7773a85012cf080472e66a4208c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5733de4748e4e01b76c138522492db30a2995a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4c917b7fcf377884ddfc214046f8dff8dd2a965f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_097c291f599bdf8db85ad96dcd390107bbb860ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_56351e68af781949b65fb56c1c0f7578477b25fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_625ee5bb59b15777c3ae64b9feb558e287efd850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c5a413668a993b6142730d60f95416d82a900ff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0018a13f28fe5ce281dfb68716c9ec6428d3855a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f9548635774943795db02670b607496052fa6cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a1200b59246333e771b56251efdb7d50fe101b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_d8c575446d2193376baeb03430761b7fd0da6c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_c7bc094b05ed7fadd251247fb35bb10647c0fb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_10ec992ae82ad92181459fe67d17cf080dcc80cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c0f2603230f8f915b15fe712ec6182f9673e392">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/instant-run_55cf1f7148debaa3aafaaf7d1787e3eb34775ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1d3a9fd7cb1964c024fc509e690366777c514c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/inarts-user/Documents/Project/Data_Network/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_05f7990cb879c8bba7c44d21ca3f0771fa745c95.jar" />
+    </item>
+
+</items>
